@@ -1,5 +1,11 @@
 # couchbase-fluent-bit
 
+
+
+```bash
+git submodule add -f git@github.com:couchbase/couchbase-fluent-bit upstream/couchbase-fluent-bit
+
+```
 ## Summary
 
 The Couchbase Fluent Bit image is an image based on the official [Fluent Bit](https://fluentbit.io/) [image](https://hub.docker.com/r/fluent/fluent-bit/) with some additional support for the following:
